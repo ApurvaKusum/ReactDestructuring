@@ -1,2 +1,0 @@
-# ReactDestructuring
-Created with CodeSandbox
